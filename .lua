@@ -1,7 +1,7 @@
 --========================
 -- 🔥 SETTINGS
 --========================
-_G.atf = false
+_G.atf = true
 _G.SelectWeapon = "Melee"
 
 local Players = game:GetService("Players")
